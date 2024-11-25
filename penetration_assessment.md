@@ -1,4 +1,4 @@
-# Red Team Lab
+# Penetration Assessment
 ---
 ## Description 
 Using the already established virtual lab used the kali vm to simulate red team tasks such as network reconnacense, vulnerability exploitation, and penetration testing. 
